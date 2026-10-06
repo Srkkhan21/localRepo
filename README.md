@@ -1,1 +1,2 @@
-#This is ReadMe file
+# This is ReadMe file.
+use git pull
